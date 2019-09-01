@@ -7,10 +7,7 @@ class TodoInput extends Component {
     value: ""
   };
 
-  handleChange = event => {
-    const { value } = event.target;
-    this.setState({ value });
-  };
+  handleChange = event => this.setState({ value: event.target });
 
   handleClick = () => {
     this.props.onClick(this.state.value);
@@ -26,7 +23,8 @@ class TodoInput extends Component {
           name="todo"
           value={this.state.value}
           onChange={event => this.handleChange(event)}
-        ></input>
+        />
+
         <button className="btn" type="button" onClick={this.handleClick}>
           <FontAwesomeIcon icon={faPlus} />
         </button>
