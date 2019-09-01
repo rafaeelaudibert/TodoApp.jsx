@@ -24,27 +24,21 @@ Your app is ready to be deployed!
 
 
 ## :runner: Things to learn More
-
 The [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started) can help a lot.
 
-### Code Splitting
-
+#### Code Splitting
 This section can be acessed here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
-
+#### Analyzing the Bundle Size
 This section can be acessed here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
-
+#### Making a Progressive Web App
 This section can be acessed here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-
+#### Advanced Configuration
 This section can be acessed here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
-
+#### Deployment
 This section can be here: https://facebook.github.io/create-react-app/docs/deployment
 
 ## :computer: Author
